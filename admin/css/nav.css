@@ -1,0 +1,14 @@
+.nav_list{
+    width: 1025px;
+    height: 46px;
+    margin: 0 auto;
+    line-height: 46px;
+}
+.nav_list>li{
+    float: left;
+    width: 146px;
+    text-align: center;
+}
+.nav_list>li:hover{
+
+}
